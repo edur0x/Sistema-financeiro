@@ -1,0 +1,6 @@
+{
+  "name": "Sistema Financeiro MZ",
+  "description": "Sistema para cadastro de consultores, clientes, pedidos e controle de acessos com emissão de relatórios em PDF e Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
